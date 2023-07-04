@@ -8,3 +8,5 @@ Play tailwindcompiliator: tailwindcss npx tailwindcss -i ./input.css -p ./output
 
 getwaves.io - generations svg pictures
 https://heroicons.com/
+
++ Instaling On PC NODE.JS for tailwindcss(https://tailwindcss.com/docs/installation/play-cdn)
