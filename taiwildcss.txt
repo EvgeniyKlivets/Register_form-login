@@ -1,0 +1,14 @@
+https://tailwindcss.com/docs/installation/using-postcss
+-Instal NODE.JS
+Terminal:
+-npm init
+-npm install -D tailwindcss
+-npx tailwindcss init
+-npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+in "packege.json" 
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/style.css --watch" - щоб не за пускати кожного разу в терміналі верхню команду
+  },
+output.css  - можна змінювати на style.css
+-npm run dev.
